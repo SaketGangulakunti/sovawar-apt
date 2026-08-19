@@ -1,0 +1,14 @@
+Origin: SovaWar
+Label: SovaWar FPS
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Apt repository for SovaWar - open world FPS game
+Date: Wed, 19 Aug 2026 21:30:27 UTC
+MD5Sum:
+ c87b1f7a0b43f41037e518d6d061b9da 956 main/binary-amd64/Packages
+SHA1:
+ 74c8673d6100e2bfe99d5ee5c3c86774755ef160 956 main/binary-amd64/Packages
+SHA256:
+ 5c8a6686f2a7ea4b7f1b6f89284bfcbbd26e49aefcf10b399ab049a3fe1681ee 956 main/binary-amd64/Packages
