@@ -1,0 +1,22 @@
+Package: sovawar
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Saket <arjun12255@outlook.com>
+Installed-Size: 64624
+Filename: pool/main/sovawar_1.0.0_amd64.deb
+Size: 18272758
+MD5sum: ae83d4127d92dff718754d51879076c3
+SHA1: 0fd74e5814f795e974324c7f26e51f5fb336a1b8
+SHA256: d61ee9741dd77d0828d60c17b44456dfa9e60e214324802f10750c4a49dd95e6
+Section: games
+Priority: optional
+Description: SovaWar - open-world low-poly FPS with tanks and dynamic lighting
+ A standalone first-person shooter built with Godot 4. Features a large
+ procedurally generated open-world terrain (rolling hills, mountains,
+ forests), a modeled low-poly rifle with raycast shooting/recoil/muzzle
+ flash, a drivable tank with an independently aimable turret, roaming
+ AI enemies, and Forward+ rendering with volumetric fog/god rays, bloom,
+ and SSAO on systems with a Vulkan-capable GPU.
+ .
+ Controls: WASD move, mouse look, left click shoot, R reload, Space
+ jump, E enter/exit the tank.
